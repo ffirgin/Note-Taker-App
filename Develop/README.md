@@ -1,1 +1,45 @@
 # Note-Taker-App
+## Description
+
+The following project is used as a Note Taking App. Upon launching the app, you are able to click on "Get Started". This will take you to a page to begin entering in your Note tile and text.
+
+## Installation
+
+You will need to:
+`npm i express`
+
+## Usage
+
+If you're needing a centralized place to store notes for yourself, you can use this app! You can also use it to store grocery list items, TO:DOs that you need to get done, and so many more things.
+
+To save your notes, after inputting the title and text, click the save icon in the top right corner.
+
+## Credits
+
+Mony Sary for helping me get the delete functionality working.
+
+## License
+
+MIT License
+
+Copyright (c) [2022] [Griffin Hobbs]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
