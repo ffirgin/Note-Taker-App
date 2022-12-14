@@ -3,7 +3,7 @@ const api = require('./routes/api');
 const html = require('./routes/html');
 // Setting up Express
 const express = require('express');
-
+const port = process.env.PORT || 3001
 //Setting up a variable to hold the express function
 const app = express();
 
