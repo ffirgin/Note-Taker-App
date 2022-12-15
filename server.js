@@ -3,7 +3,7 @@ const api = require('./routes/api');
 const html = require('./routes/html');
 // Setting up Express
 const express = require('express');
-const port = process.env.PORT || 3001
+const PORT = process.env.PORT || 3001
 //Setting up a variable to hold the express function
 const app = express();
 
@@ -17,6 +17,6 @@ app.use('/api', api);
 app.use('/', html);
 
 //Listener
-app.listen(3001, () => {
-  console.log('App started on port 3001.')
+app.listen(PORT, () => {
+  console.log('App started at http://localhost:${PORT}.')
 });
